@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "626a60a5-09d2-40df-8548-ee0282274b6e": {
+      "ProjectGuid": "626a60a5-09d2-40df-8548-ee0282274b6e",
+      "DisplayName": "ChiffrerDechiffrer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

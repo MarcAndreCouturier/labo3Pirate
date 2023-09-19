@@ -1,0 +1,11 @@
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\bin\Debug\ChiffrerDechiffrer.exe.config
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\bin\Debug\ChiffrerDechiffrer.exe
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\bin\Debug\ChiffrerDechiffrer.pdb
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.csproj.AssemblyReference.cache
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.Form1.resources
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.Properties.Resources.resources
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.csproj.GenerateResource.cache
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.csproj.CoreCompileInputs.cache
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.exe
+C:\Users\Drahkor\Desktop\TechFo\Piratage\ChiffrerDechiffrer\obj\Debug\ChiffrerDechiffrer.pdb
